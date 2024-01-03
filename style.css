@@ -1,0 +1,37 @@
+body {
+    font: 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right,  red, yellow);
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+    font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+.button {
+    background-color: rgba(0, 0, 0, 0.5); /* Set background color to black with 50% opacity */
+  border: none;
+  border-radius: 10px; /* Set the border-radius to make the button rounded */
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  text-align: center;
+}
