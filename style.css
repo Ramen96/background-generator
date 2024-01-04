@@ -26,9 +26,9 @@ h3 {
 }
 
 .button {
-    background-color: rgba(0, 0, 0, 0.5); /* Set background color to black with 50% opacity */
+    background-color: rgba(0, 0, 0, 0.5); 
   border: none;
-  border-radius: 10px; /* Set the border-radius to make the button rounded */
+  border-radius: 10px; 
   color: white;
   cursor: pointer;
   font-size: 16px;

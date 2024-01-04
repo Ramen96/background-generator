@@ -35,7 +35,4 @@ color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
 button.addEventListener("click", genRanHex);
 
-
-genRanHex();  // Call function so color inputs match the background generated 
-                // and Display the initial CSS linear gradient property 
-                // on the first page load. 
+genRanHex();
